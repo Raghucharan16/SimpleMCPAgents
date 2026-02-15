@@ -1,0 +1,10 @@
+.env
+.python-version
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.venv/
+*.lock
+*.log
