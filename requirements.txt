@@ -1,2 +1,4 @@
 langchain-groq
 fastapi
+python-dotenv
+langchain_groq
